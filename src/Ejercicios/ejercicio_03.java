@@ -2,7 +2,7 @@ package Ejercicios;
 
 public class ejercicio_03 {
     public static void main(String[] args) {
-        float a = 16;
+        float a = 15;
         String resp = "";
         float y=(a/2);
         long iPart = (long) y;
